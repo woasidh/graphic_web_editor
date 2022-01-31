@@ -1,0 +1,19 @@
+{
+  "name": "graphic_web_editor",
+  "version": "1.0.0",
+  "description": "graphic mini web editor for graphic resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woasidh/graphic_web_editor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woasidh/graphic_web_editor/issues"
+  },
+  "homepage": "https://github.com/woasidh/graphic_web_editor#readme"
+}

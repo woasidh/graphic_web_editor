@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+
+.sample {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color: white;
+}
