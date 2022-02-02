@@ -1,0 +1,26 @@
+@import 'global.scss';
+
+header.appHeader {
+    height: $header_height;
+    background-color: white;
+    border-bottom: 3px solid $theme_4;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    img {
+        height: 80%;
+    }
+    // todo font 설정하기
+    .siteNavMenu {
+        button {
+            font-weight: 600;
+            font-size: 15px;
+            width: fit-content;
+            padding: 10px 20px;
+            &:hover {
+                color: $theme_3;
+            }
+        }
+    }
+}
