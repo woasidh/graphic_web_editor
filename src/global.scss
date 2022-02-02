@@ -1,0 +1,26 @@
+// color
+
+$light_gray: #F6F6F6;
+$theme_1: #003B46;
+$theme_2: #07575B;
+$theme_3: #66A5AD;
+$theme_4: #C4DFE6;
+
+// size
+
+$header_height: 70px;
+
+body {
+  margin: 0;
+  background-color: $light_gray;
+}
+
+button {
+  background-color: inherit;
+  border: none;
+  cursor: pointer;
+}
+
+:export {
+  $light_gray: $light_gray;
+}
